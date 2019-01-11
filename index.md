@@ -2,13 +2,11 @@
 
 Sophomore pursuing a Bachelor's Degree in Computer Science at Arizona State University - Tempe.
 
-### Education
-
 ### Projects
 
 ### Skills
 
-### 
+### Contact
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 

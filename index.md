@@ -1,6 +1,6 @@
 ## Sophia Shovkovy
 
-Sophomore pursuing a Bachelor's Degree in Computer Science at Arizona State University - Tempe.
+Honors student at the Ira A. Fulton School of Engineering at Arizona State University in Tempe, Arizona. Pursuing a Bachelors of Science Degree in Computer Science.
 
 ### Projects
 

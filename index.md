@@ -3,7 +3,7 @@
 Honors student at the Ira A. Fulton School of Engineering at Arizona State University in Tempe, Arizona. Pursuing a Bachelors of Science Degree in Computer Science.
 
 ### Currently
-Systems Programmer Intern at Intel Corporations
-iOS Developer
-Full time student
-Sustainability advocate
+* Systems Programmer Intern at Intel Corporations
+* iOS Developer
+* Full time student
+* Sustainability advocate

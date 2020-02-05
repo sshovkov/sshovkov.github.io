@@ -7,3 +7,6 @@ Honors student at the Ira A. Fulton School of Engineering at Arizona State Unive
 * iOS Developer
 * Full time student
 * Sustainability advocate
+
+### Skills
+`Java`, `C`, `C++`,`Teamwork`, `Sketch`, `UIKit Swift`, `iOS`, `Microsoft Excel`,

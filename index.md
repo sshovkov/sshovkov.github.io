@@ -9,4 +9,4 @@ Honors student at the Ira A. Fulton School of Engineering at Arizona State Unive
 * Sustainability advocate
 
 ### Skills
-`Swift` `Sketch` `UIKit Swift` `iOS` `Xcode` `Java` `C` `C++` `Teamwork` `Microsoft Excel` 
+`Swift` `Sketch` `UIKit Swift` `iOS` `Xcode` `Java` `C` `C++`
